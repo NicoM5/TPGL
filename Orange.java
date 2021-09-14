@@ -68,6 +68,8 @@ public class Orange {
 
 	System.out.println(or);
 
+	System.out.println(or);
+
 
    }
 }
